@@ -58,7 +58,7 @@ export const fastenersData: Material[] = [
       measurementSystem: "IMPERIAL",
       diameterInch: "1/2",
       tpi: 13,
-      lengthInch: "4",
+      lengthInch: 4,
       material: "SUS304",
       threadType: "FULLY THREADED",
       threadDirection: "RIGHT DIRECTION",
